@@ -1,3 +1,5 @@
+@echo off
+
 echo -----------------------------
 
 echo Test Running [AD OU Create] - Create
